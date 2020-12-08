@@ -241,3 +241,51 @@
   password: 'y&x5Z#f6W532ZUf$q3DsdgfgfgxxUsvoCUaDzFU'
   key: emma
   role: 'customer'
+-
+  email: huba
+  password: '5gFcjoktKi'
+  key: huba
+  role: 'admin'
+  securityQuestion:
+    id: 1
+    answer: 'bn0Y2E7Uxn'
+  feedback:
+    comment: 'bardzo wysokie ceny'
+    rating: 2
+  address:
+    - fullName: 'Hubert Maciejewski'
+      mobileNum: 850184957
+      zipCode: '02-634'
+      streetAddress: 'Miłobędzka 55'
+      city: 'Warsaw'
+      state: 'Mazovian'
+      country: 'Poland'
+  card:
+    - fullName: 'GoldenBank'
+      cardNum: 4711438724962578
+      expMonth: 8
+      expYear: 2085
+-
+  email: zuza
+  password: 'Le5cBNkRP9'
+  key: zuza
+  role: 'customer'
+  securityQuestion:
+    id: 2
+    answer: 'hu9jg9320ug94209ja'
+  feedback:
+    comment: 'pyszny soczek'
+    rating: 5
+  address:
+    - fullName: 'Zuzanna Ostrowska'
+      mobileNum: 1234567890
+      zipCode: '00-909 '
+      streetAddress: 'Żwirki i Wigury 1'
+      city: 'Warsaw'
+      state: 'Mazovian'
+      country: 'Poland'
+  card:
+    - fullName: 'MonopolyCard'
+      cardNum: 4497531687216538
+      expMonth: 1
+      expYear: 2086
